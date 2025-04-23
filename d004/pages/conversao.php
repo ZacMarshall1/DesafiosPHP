@@ -1,8 +1,6 @@
 <?php 
-
     require_once __DIR__ . '/../util/verificacoes.php';
     require_once __DIR__ . '/../util/ieneParaReal.php';
-
 ?>
 
 <!DOCTYPE html>
